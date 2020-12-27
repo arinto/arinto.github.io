@@ -1,4 +1,4 @@
 
 .PHONY: serve-local
 serve-local:
-	bundle exec jekyll serve --incremental
+	bundle exec jekyll serve
