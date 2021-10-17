@@ -40,7 +40,8 @@ The traits of slice
 3. We can't compare it using `==`. To perform slice comparison, we need to write our own function, except for [bytes.Equal]
 4. Use `append` function to add elements to slice.
 
-Read [Golang book] chapter 4.1 and 4.2 for more details :)
+Read [The Go Programming Language] chapter 4.1 and 4.2 for more details :)
 
 [sha256.go]: https://cs.opensource.google/go/go/+/refs/tags/go1.17.2:src/crypto/sha256/sha256.go;l=254
 [bytes.equal]: https://pkg.go.dev/bytes#Equal
+[The Go Programming Language]: https://learning.oreilly.com/library/view/the-go-programming/9780134190570/
